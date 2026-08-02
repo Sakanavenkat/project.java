@@ -3,9 +3,11 @@ Tic Tac Toe ❌⭕
 A classic two-player Tic Tac Toe game built in Python, playable from the command line.
 
 📋 Overview
+
 This project implements the traditional 3x3 Tic Tac Toe game where two players (X and O) take turns marking cells on a grid, with the goal of getting three of their marks in a row — horizontally, vertically, or diagonally.
 
 ✨ Features
+
 3x3 game board with clear console display
 Turn-based play for two players (X and O)
 Win detection (rows, columns, diagonals)
@@ -14,9 +16,11 @@ Input validation to prevent invalid or occupied moves
 Option to replay after a game ends
 
 🛠️ Requirements
+
 python 3.x
 
 ▶️ Usage
+
 bash
 python tic_tac_toe.py
 Run the script.
@@ -26,6 +30,7 @@ The board updates after each move.
 The game announces a winner or a draw, and asks if you'd like to play again.
 
 🎮 How to Play
+
 The board is numbered like this:
  1 | 2 | 3
 -----------

@@ -30,14 +30,6 @@ The board updates after each move.
 The game announces a winner or a draw, and asks if you'd like to play again.
 
 🎮 How to Play
-
-The board is numbered like this:
-
- 1 | 2 | 3
------------
- 4 | 5 | 6
------------
- 7 | 8 | 9
  
 Players alternate turns, entering the number of the cell they want to mark.
 First player to align three of their marks (row, column, or diagonal) wins.

@@ -32,6 +32,7 @@ The game announces a winner or a draw, and asks if you'd like to play again.
 🎮 How to Play
 
 The board is numbered like this:
+
  1 | 2 | 3
 -----------
  4 | 5 | 6

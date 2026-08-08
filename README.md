@@ -14,7 +14,6 @@ Win detection (rows, columns, diagonals)
 Draw/tie detection when the board fills up with no winner
 Input validation to prevent invalid or occupied moves
 Option to replay after a game ends
-
 🛠️ Requirements
 
 python 3.x
